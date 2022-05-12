@@ -1,6 +1,6 @@
 # Valeurs demandes foncières
 
-Ce projet d'école consiste à étudier les transactions immobilières intervenues au cours des cinq dernières années. 
+Ce projet d'école (*IA School - Master 2 Artficial Intelligence - Option Data Scientist*) consiste à étudier les transactions immobilières intervenues au cours des cinq dernières années. 
 Les données contenues sont issues des actes notariés et des informations cadastrales. Elles sont produites et diffusées par la Direction Générale des Finances Publiques (DGFiP) et gérées par la mission Etalab sur la plateforme ouverte des données publiques françaises (www.data.gouv.fr).
 
 L'objectif est de synthétiser l’ensemble des informations pertinentes sur les logements immobiliers en France. Ce notebook servira d’outil d’aide à la décision d’achat et permettra de répondre aux questions suivantes :
